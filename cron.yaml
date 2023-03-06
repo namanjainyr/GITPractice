@@ -2,5 +2,8 @@ version: 1
 cron: 
   - name: "task1"
     url: "/scheduled"
-    schedule: "* * * * *" 
+    schedule: "* * * * *" ]
+    
+  - name: "task2"
+  
 
