@@ -3,5 +3,4 @@ cron:
   - name: "task1"
     url: "/scheduled"
     schedule: "* * * * *" 
-    
-    bcsdbknscksjnvcisnfivenwbiue9uvh93h9h8ebuebu
+
